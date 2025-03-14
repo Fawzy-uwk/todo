@@ -1,5 +1,5 @@
 import { Toaster } from "react-hot-toast";
-import Home from "./components/home.jsx";
+import Home from "./components/Home.jsx";
 import { useSelector } from "react-redux";
 
 function App() {

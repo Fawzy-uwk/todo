@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { v4 as uuid4 } from "uuid";
 import { addTask } from "../features/TaskSlice";
-import { ClockLoader } from "react-spinners";
+
 import { toast } from "react-hot-toast";
 import Loader from "./Loader";
 
