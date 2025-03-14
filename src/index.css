@@ -30,5 +30,6 @@ body {
   min-height: 100dvh;
 }
 .dark body {
-  background: #030712;
+  background: #030712 !important;
+
 }
